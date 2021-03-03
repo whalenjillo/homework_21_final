@@ -1,0 +1,47 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+
+  .container {
+      margin-left: 25px;
+  }
+
+  .card-body {
+    margin-left: 25px;
+  }
+
+  .col {
+      margin-top: 50px;
+  }
+
+  .row {
+      margin-left: 25px;
+      margin-right: 25px;
+  }
+
+  .featurette-divider {
+      margin-top: 90px;
+  }
+
+  footer {
+    background-color:lightgrey;
+    padding: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.footer-copy {
+    font-size: 15px;   
+    color: white;
+    /* font-family: sans-serif; */
+    font-weight: bold;
+    }
+
+.footer-items a {
+text-align: center;
+}
